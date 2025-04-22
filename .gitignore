@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data
+edu_fineweb10B/
+hellaswag/
+
+# Logs and checkpoints
+log/
+log*/
+*.pt
+*.bin
+
+# PyTorch specific
+*.pth
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db

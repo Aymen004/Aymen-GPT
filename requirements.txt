@@ -1,0 +1,10 @@
+torch>=2.0.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+tiktoken>=0.3.1
+tqdm>=4.62.0
+datasets>=2.6.0
+transformers>=4.27.0
+requests>=2.27.0
+# Optional but recommended for performance
+flash-attn>=2.0.0; platform_system != "Windows"
