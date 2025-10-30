@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 
-A completely from-scratch implementation of the GPT2/3 architecture trained on FineWeb-Edu dataset, with performance evaluation on the HellaSwag benchmark.
+A completely from-scratch implementation of the GPT2/3 architecture trained on FineWeb-Edu dataset, with performance evaluation on the HellaSwag benchmark. [View Research Report](https://drive.google.com/file/d/1LEzPnJ3gGAv_sDc7MuuNBgVsr5K_tjpR/view?usp=sharing)
 
 ## Overview
 
